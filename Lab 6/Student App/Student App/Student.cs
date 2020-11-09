@@ -36,6 +36,14 @@ namespace Student_App
             get { return cgpa; }
             set { cgpa = value; }
         }
+        public Student()
+        {
+
+        }
+        public Student (string name,string id,string department,float cgpa)
+        {
+
+        }
 
 
     }
