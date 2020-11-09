@@ -39,9 +39,25 @@ namespace Student_App
         public Student()
         {
 
+            name = "Fahmida Rashid";
+            id = "19-400342-1";
+            department = "CSE";
+            cgpa = 3.80F;
         }
         public Student (string name,string id,string department,float cgpa)
         {
+            this.name = name;
+            this.id = id;
+            this.department = department;
+            this.cgpa = cgpa;
+
+        }
+        public void showInfo()
+        {
+            Console.WriteLine("Student Name is:" + name);
+            Console.WriteLine("Student Id is " + id);
+            Console.WriteLine("Student Department is: " + department);
+            Console.WriteLine("Student Cgpa is:" + cgpa);
 
         }
 

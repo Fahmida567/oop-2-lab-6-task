@@ -41,6 +41,26 @@ namespace Student_App
             get { return bookCopy; }
             set { bookCopy = value; }
         }
+        public Book()
+        {
+            bookName = "Opekkha";
+            bookAuthor = "Humayun Ahmed";
+            bookId = "112";
+            bookType = "poem book";
+            bookCopy = 50;
+        }
+        public Book(string bookName, string bookAuthor, string bookId, string bookType, int bookCopy)
+        {
+            this.bookName = bookName;
+            this.bookAuthor = bookAuthor;
+            this.bookId = bookId;
+            this.bookType = bookType;
+            this.bookCopy = bookCopy;
+        }
+        public void AddBookCopy(int bc)
+        {
+            bookCopy += bc;
+        }
 
 
 

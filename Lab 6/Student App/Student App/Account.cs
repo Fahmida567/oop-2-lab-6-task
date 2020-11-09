@@ -27,6 +27,26 @@ namespace Student_App
             get { return balance; }
             set { balance = value; }
         }
+        public Account()
+        {
+            accName = "xxxx";
+            acid = "234567888";
+            balance = 20000;
+        }
+        public Account(string accName, string acid, int balance)
+        {
+            this.accName = accName;
+            this.acid = acid;
+            this.balance = balance;
+        }
+        public void Deposit(int amount)
+        {
+            balance += amount;
+        }
+        public void Withdraw(int amount)
+        {
+            balance -= amount;
+        }
 
 
     }

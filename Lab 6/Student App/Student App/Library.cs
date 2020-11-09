@@ -35,6 +35,19 @@ namespace Student_App
             get { return totalBook; }
             set { totalBook = value; }
         }
+        public Library()
+        {
+            libName = "xxxxxx";
+            libAddress = "xxxxxx";
+            listOfBook = new Book[100];
+
+        }
+        public Library(string libName, string libAddress, int totalBook)
+        {
+            this.libName = libName;
+            this.libAddress = libAddress;
+            this.totalBook = totalBook;
+        }
 
 
 
