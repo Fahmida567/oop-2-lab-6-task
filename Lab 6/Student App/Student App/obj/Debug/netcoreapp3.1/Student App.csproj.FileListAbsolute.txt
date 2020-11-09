@@ -1,0 +1,13 @@
+G:\Lab 6\Student App\Student App\bin\Debug\netcoreapp3.1\Student App.exe
+G:\Lab 6\Student App\Student App\bin\Debug\netcoreapp3.1\Student App.deps.json
+G:\Lab 6\Student App\Student App\bin\Debug\netcoreapp3.1\Student App.runtimeconfig.json
+G:\Lab 6\Student App\Student App\bin\Debug\netcoreapp3.1\Student App.runtimeconfig.dev.json
+G:\Lab 6\Student App\Student App\bin\Debug\netcoreapp3.1\Student App.dll
+G:\Lab 6\Student App\Student App\bin\Debug\netcoreapp3.1\Student App.pdb
+G:\Lab 6\Student App\Student App\obj\Debug\netcoreapp3.1\Student App.csprojAssemblyReference.cache
+G:\Lab 6\Student App\Student App\obj\Debug\netcoreapp3.1\Student App.AssemblyInfoInputs.cache
+G:\Lab 6\Student App\Student App\obj\Debug\netcoreapp3.1\Student App.AssemblyInfo.cs
+G:\Lab 6\Student App\Student App\obj\Debug\netcoreapp3.1\Student App.csproj.CoreCompileInputs.cache
+G:\Lab 6\Student App\Student App\obj\Debug\netcoreapp3.1\Student App.dll
+G:\Lab 6\Student App\Student App\obj\Debug\netcoreapp3.1\Student App.pdb
+G:\Lab 6\Student App\Student App\obj\Debug\netcoreapp3.1\Student App.genruntimeconfig.cache
